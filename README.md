@@ -1,3 +1,1 @@
-#sito creato per un progetto scolastico sulla legalità  
-
-
+Progetto scolastico per educazione civica
